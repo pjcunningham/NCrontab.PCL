@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CrontabFieldImpl.cs">
+    <Files>
+      <File FileName="Properties\AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="CrontabField.cs" Line="2" Column="2" />
+      <File FileName="CrontabFieldImpl.cs" Line="1" Column="1" />
+      <File FileName="CrontabException.cs" Line="1" Column="1" />
+      <File FileName="CrontabFieldKind.cs" Line="2" Column="2" />
+      <File FileName="CrontabSchedule.cs" Line="2" Column="2" />
+      <File FileName="ErrorHandling.cs" Line="1" Column="1" />
+      <File FileName="ValueOrError.cs" Line="1" Column="1" />
+      <File FileName="ICrontabField.cs" Line="1" Column="1" />
+      <File FileName="NCrontab.Test\ValueOrErrorTests.cs" Line="67" Column="67" />
+      <File FileName="NCrontab.Test\packages.config" Line="1" Column="1" />
+      <File FileName="NCrontab.Test\CrontabScheduleTests.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
